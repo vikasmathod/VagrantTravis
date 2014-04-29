@@ -1,0 +1,1 @@
+date >C:\Users\vagrant\test.txt
